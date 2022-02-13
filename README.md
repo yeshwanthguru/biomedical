@@ -1,5 +1,10 @@
 # Abstract
 
+##GROUP MEMBERS:SURAJ DESHINI
+              ANDERSON
+              KOUSHIKMANI MASKALMATTI LAKSHMANAN
+              YESHWANTH GURU KRISHNAKUMAR
+
 
 
 # UBUNTU installation steps:
@@ -213,3 +218,4 @@ Figure 7. Window to tune the customization parameters.
 
 The reaching task is composed of many steps (almost 300, you will take ~45 minutes to finish it and you should do it without interrupting). You should move your joints in order to move the green dot (virtual cursor) in order to reach the targets that appear in the screen. Once reached, the targets color become yellow. You have to stay inside the target for some milliseconds and then you will see another target appearing somewhere in the screen. Keep going until the end. Two events could happen: (i) sometimes the virtual cursor disappear for some seconds (~15s); you should try to reach the target as always but without having the visual feedback of where the virtual cursor is. If you can not reach it before ~15s the virtual cursor will appear again and you will be able to reach the target with the visual feedback. (ii) After some trial, periodically, the virtual cursor will freeze in order to give you the possibility to do a small break. If you want to continue the task, press the key 'p' on your keyboard.
 
+##
