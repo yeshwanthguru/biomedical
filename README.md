@@ -3,7 +3,7 @@
 
 ##GROUP MEMBERS:\
               SURAJ DESHINI\
-              ANDERSON\
+              ANDERSON DE SIQUEIRA DE ANDRADE\
               KOUSHIKMANI MASKALMATTI LAKSHMANAN\
               YESHWANTH GURU KRISHNAKUMAR
 
@@ -234,19 +234,18 @@ control the real cursor and not the virtual one.\
 ![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/72270080/153881786-b95d122a-d70c-47df-85a4-9c23d7dd5c4d.png)
 
 ##Medium task:
-- When selected the ‘Mouse control’ checkbox implement the right/left click of the mouse.
-The click can for example be executed if the cursor do not move.And it can be check using the execution of on_screen_keyboard.py\
+- When selected the ‘Mouse control’ checkbox implement the right/left click of the mouse.The click can for example be executed if the cursor doES not move and it can be checkED using the execution of on_screen_keyboard.py\
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/72270080/153881113-8cec1277-a712-4f7e-862a-03b79b41e8fb.png)
 
 ##Maximum task:
-Maximum task were developed a game in unreal in which the task is in the gamify as it has been linked to the BOMI main_user_interface it will be user friendly. And it is creating  a good interaction with the user.\
+In the maximum task we developed a game in unreal engine 4.27 in which we used gamification in the form of serious game which has been linked to the BoMI user interface.
 
 commands to execute the minimum task:\
              
                 python3 main_reaching.py\
                 
                 
-once this interface is initiated then we want to follow the procedure mentioned till the controller selection later ,depends on the purpose want to clic on the control section eith mouse control or serious_game.
+Once the exe file is initialized using the interface, Unreal engine project opens up and the game begins in which we follow a maze containing obstacles. It is up to us to grab and place the obstacles in such a way that it allows us to complete the maze
 
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/72270080/153869276-a6730675-425e-49f9-b294-f1ef2cfcf6b2.png)
 
