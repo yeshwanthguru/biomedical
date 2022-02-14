@@ -235,6 +235,7 @@ control the real cursor and not the virtual one.\
 ##Medium task:
 - When selected the ‘Mouse control’ checkbox implement the right/left click of the mouse.
 The click can for example be executed if the cursor do not move.And it can be check using the execution of on_screen_keyboard.py\
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/72270080/153881113-8cec1277-a712-4f7e-862a-03b79b41e8fb.png)
 
 ##Maximum task:
 Maximum task were developed a game in unreal in which the task is in the gamify as it has been linked to the BOMI main_user_interface it will be user friendly. And it is creating  a good interaction with the user.\
