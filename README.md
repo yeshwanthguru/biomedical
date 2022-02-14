@@ -231,6 +231,7 @@ real mouse or the virtual mouse. The variable that controls if the checkbox is s
 given as input to the function start_reaching.\
 Depending on it, if the checkbox is selected, the main application (function start_reaching) should
 control the real cursor and not the virtual one.\
+![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/72270080/153881786-b95d122a-d70c-47df-85a4-9c23d7dd5c4d.png)
 
 ##Medium task:
 - When selected the ‘Mouse control’ checkbox implement the right/left click of the mouse.
