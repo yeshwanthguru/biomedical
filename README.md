@@ -218,5 +218,29 @@ Figure 7. Window to tune the customization parameters.
 **[IMPORTANT!! If for any reason you are stuck and you want to close the application press the key 'p' in your keyboard and it will pause the program]**
 
 The reaching task is composed of many steps (almost 300, you will take ~45 minutes to finish it and you should do it without interrupting). You should move your joints in order to move the green dot (virtual cursor) in order to reach the targets that appear in the screen. Once reached, the targets color become yellow. You have to stay inside the target for some milliseconds and then you will see another target appearing somewhere in the screen. Keep going until the end. Two events could happen: (i) sometimes the virtual cursor disappear for some seconds (~15s); you should try to reach the target as always but without having the visual feedback of where the virtual cursor is. If you can not reach it before ~15s the virtual cursor will appear again and you will be able to reach the target with the visual feedback. (ii) After some trial, periodically, the virtual cursor will freeze in order to give you the possibility to do a small break. If you want to continue the task, press the key 'p' on your keyboard.
+once these process were done for detail experience of the game.
 
-##
+##Minimum task:
+- Perform a reaching task (last step of the github instructions).\
+- In the class MainApplication add the code to create a checkbox called ‘Mouse control’ (the code
+should be similar to the one created to allow the selection of different joints at the beginning). The
+checkbox should represent a Boolean variable that controls if the user wants to control directly the
+real mouse or the virtual mouse. The variable that controls if the checkbox is selected should be
+given as input to the function start_reaching.\
+Depending on it, if the checkbox is selected, the main application (function start_reaching) should
+control the real cursor and not the virtual one.\
+
+##Medium task:
+- When selected the ‘Mouse control’ checkbox implement the right/left click of the mouse.
+The click can for example be executed if the cursor do not move.And it can be check using the execution of on_screen_keyboard.py\
+
+##Maximum task:
+Maximum task were developed a game in unreal in which the task is in the gamify as it has been linked to the BOMI main_user_interface it will be user friendly. And it is creating  a good interaction with the user.\
+
+commands to execute the minimum task:\
+             
+                python3 main_reaching.py\
+                
+                
+once this interface is initiated then we want to follow the procedure mentioned till the controller selection later ,depends on the purpose want to clic on the control section eith mouse control or serious_game.
+
