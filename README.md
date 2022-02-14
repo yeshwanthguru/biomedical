@@ -222,28 +222,28 @@ The reaching task is composed of many steps (almost 300, you will take ~45 minut
 once these process were done for detail experience of the game.
 
 Before setting up the environment for the unreal scene you have to download the scene from the one drive https://unigeit-my.sharepoint.com/:u:/g/personal/s5053566_studenti_unige_it/EYUUgQLBwXFPrBbK-465RNUB2rp_ZW6h4C-XcdMg6pSTQg
-and set its path in master_reaching.py \.
+and set its path in master_reaching.py/
 ##Minimum task:
-- Perform a reaching task (last step of the github instructions).\
+- Perform a reaching task (last step of the github instructions).
 - In the class MainApplication add the code to create a checkbox called ‘Mouse control’ (the code
 should be similar to the one created to allow the selection of different joints at the beginning). The
 checkbox should represent a Boolean variable that controls if the user wants to control directly the
 real mouse or the virtual mouse. The variable that controls if the checkbox is selected should be
-given as input to the function start_reaching.\
+given as input to the function start_reaching.
 Depending on it, if the checkbox is selected, the main application (function start_reaching) should
-control the real cursor and not the virtual one.\
+control the real cursor and not the virtual one.
 ![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/72270080/153881786-b95d122a-d70c-47df-85a4-9c23d7dd5c4d.png)
 
 ##Medium task:
-- When selected the ‘Mouse control’ checkbox implement the right/left click of the mouse.The click can for example be executed if the cursor doES not move and it can be checkED using the execution of on_screen_keyboard.py\
+- When selected the ‘Mouse control’ checkbox implement the right/left click of the mouse.The click can for example be executed if the cursor doES not move and it can be checkED using the execution of on_screen_keyboard.py
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/72270080/153881113-8cec1277-a712-4f7e-862a-03b79b41e8fb.png)
 
 ##Maximum task:
 In the maximum task we developed a game in unreal engine 4.27 in which we used gamification in the form of serious game which has been linked to the BoMI user interface.
 
-commands to execute the minimum task:\
+commands to execute the minimum task:
              
-                python3 main_reaching.py\
+                python3 main_reaching.py
                 
                 
 Once the exe file is initialized using the interface, Unreal engine project opens up and the game begins in which we follow a maze containing obstacles. It is up to us to grab and place the obstacles in such a way that it allows us to complete the maze
