@@ -222,7 +222,10 @@ The reaching task is composed of many steps (almost 300, you will take ~45 minut
 once these process were done for detail experience of the game.
 
 Before setting up the environment for the unreal scene you have to download the scene from the one drive https://unigeit-my.sharepoint.com/:u:/g/personal/s5053566_studenti_unige_it/EYUUgQLBwXFPrBbK-465RNUB2rp_ZW6h4C-XcdMg6pSTQg
-and set its path in master_reaching.py/n
+and set its path in master_reaching.py\n
+
+
+
 ##Minimum task:
 - Perform a reaching task (last step of the github instructions).
 - In the class MainApplication add the code to create a checkbox called ‘Mouse control’ (the code
